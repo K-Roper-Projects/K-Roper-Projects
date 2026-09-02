@@ -36,3 +36,37 @@ The platform combines containerised monitoring with AWS infrastructure provision
 
 ➡️ **[Explore the HomeLab Monitoring Platform](https://github.com/K-Roper-Projects/homelab-monitoring)**
 
+## Technical Skills & Technologies
+
+**Cloud & Infrastructure**
+AWS · Terraform · Infrastructure as Code · Linux
+
+**Containers & Automation**
+Docker · Docker Compose · Python · Bash · cloud-init
+
+**Monitoring & Observability**
+Prometheus · Grafana · Node Exporter · Blackbox Exporter · Alerting
+
+**Networking & Systems**
+TCP/IP · DNS · DHCP · VLANs · Routing · Switching · Wi-Fi · SSH · Tailscale
+
+**Development & Operations**
+Git · GitHub · CI/CD Fundamentals · YAML · systemd · Technical Troubleshooting
+
+## Currently Building & Exploring
+
+I'm continuing to develop my engineering portfolio around **cloud infrastructure, automation, observability and system reliability**.
+
+Current areas of focus include:
+
+* Expanding the Rail Network Diagnostics Platform with additional fleet diagnostics and reporting capabilities
+* Developing the HomeLab platform further through AWS, Terraform and infrastructure automation
+* Strengthening practical CI/CD and Infrastructure as Code experience
+* Exploring approaches to automated fault detection and self-recovery
+
+## Connect
+
+I'm interested in opportunities across **Infrastructure Engineering, Cloud Operations, Platform Engineering and Technical Operations**, where I can combine my existing infrastructure and troubleshooting experience with cloud, automation and observability.
+
+Feel free to explore my projects or connect with me on **www.linkedin.com/in/kevin-roper2811**.
+
