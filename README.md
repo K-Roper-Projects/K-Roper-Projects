@@ -36,6 +36,8 @@ The platform combines containerised monitoring with AWS infrastructure provision
 
 ➡️ **[Explore the HomeLab Monitoring Platform](https://github.com/K-Roper-Projects/homelab-monitoring)**
 
+---
+
 ## Technical Skills & Technologies
 
 **Cloud & Infrastructure**
@@ -55,8 +57,7 @@ Git · GitHub · CI/CD Fundamentals · YAML · systemd · Technical Troubleshoot
 
 ## Currently Building & Exploring
 
-I'm continuing to develop my engineering portfolio around **cloud infrastructure, automation, observability and system reliability**.
-
+I'm continuing to expand my hands-on engineering work across cloud infrastructure, automation, observability and system reliability.
 Current areas of focus include:
 
 * Expanding the Rail Network Diagnostics Platform with additional fleet diagnostics and reporting capabilities
@@ -64,9 +65,11 @@ Current areas of focus include:
 * Strengthening practical CI/CD and Infrastructure as Code experience
 * Exploring approaches to automated fault detection and self-recovery
 
+---
+
 ## Connect
 
 I'm interested in opportunities across **Infrastructure Engineering, Cloud Operations, Platform Engineering and Technical Operations**, where I can combine my existing infrastructure and troubleshooting experience with cloud, automation and observability.
 
-Feel free to explore my projects or connect with me on **www.linkedin.com/in/kevin-roper2811**.
+Feel free to explore my projects or connect with me on LinkedIn.
 
