@@ -71,5 +71,5 @@ Current areas of focus include:
 
 I'm interested in opportunities across **Infrastructure Engineering, Cloud Operations, Platform Engineering and Technical Operations**, where I can combine my existing infrastructure and troubleshooting experience with cloud, automation and observability.
 
-Feel free to explore my projects or connect with me on LinkedIn.
+Feel free to explore my projects or connect with me on **[LinkedIn](https://www.linkedin.com/in/kevin-roper2811)**.
 
