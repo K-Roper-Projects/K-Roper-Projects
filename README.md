@@ -4,7 +4,7 @@
 
 Infrastructure and technical operations engineer with 18+ years of experience supporting, troubleshooting and improving real-world IT systems and networks.
 
-I'm building on that foundation through hands-on cloud, infrastructure-as-code, automation and observability engineering — using technologies including AWS, Terraform, Docker, Linux, Python, GitHub Actions, Prometheus and Grafana.**.
+I'm building on that foundation through hands-on cloud, infrastructure-as-code, automation and observability engineering — using technologies including **AWS, Terraform, Docker, Linux, Python, GitHub Actions, Prometheus and Grafana****.
 
 My projects here focus on solving practical engineering problems: **diagnosing complex network and system faults, building monitoring and diagnostic platforms, automating infrastructure deployment, and improving system reliability and visibility.**
 
