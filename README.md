@@ -24,17 +24,26 @@ The project focuses on turning complex system and network data into actionable d
 
 ---
 
-### ☁️ HomeLab Monitoring & Cloud Infrastructure Platform
+### 🖥️ HomeLab Monitoring Platform
 
-**AWS · Terraform · Docker · Linux · Prometheus · Grafana · Automation**
+A multi-environment infrastructure monitoring and automation platform built across a local Ubuntu HomeLab and AWS.
 
-A hands-on infrastructure engineering platform that has evolved from local Linux monitoring into a cloud-deployable, infrastructure-as-code environment with automated provisioning, observability and recovery.
+Built using **Docker, Prometheus, Grafana, Terraform, AWS, Tailscale and GitHub Actions**, with a focus on infrastructure automation, observability and operational reliability.
 
-The platform combines containerised monitoring with AWS infrastructure provisioned through Terraform, automated EC2 configuration using cloud-init, secure remote administration, custom Prometheus metrics and Grafana alerting.
+Recent development introduced a complete **CI/CD workflow using GitHub Actions**:
 
-**Engineering focus:** Infrastructure as Code, cloud deployment, monitoring and observability, containerisation, infrastructure automation, secure remote access and service resilience.
+- Automated validation of Docker Compose, Prometheus, Bash and Terraform configuration
+- Feature branch and pull request development workflow
+- Protected `main` branch with required CI status checks
+- Controlled deployment from GitHub Actions to the private HomeLab environment
+- Secure deployment connectivity using Tailscale and SSH
+- Pinned SSH host-key verification
+- Automated Docker Compose deployment
+- Post-deployment verification of container state, Prometheus readiness and Grafana health
 
-➡️ **[Explore the HomeLab Monitoring Platform](https://github.com/K-Roper-Projects/homelab-monitoring)**
+The project has evolved from a locally hosted monitoring stack into a version-controlled infrastructure platform incorporating **Infrastructure as Code, automated provisioning, secure remote administration, CI/CD and application health verification**.
+
+➡️ **[View the HomeLab Monitoring Platform repository](https://github.com/K-Roper-Projects/homelab-monitoring)**
 
 ---
 
