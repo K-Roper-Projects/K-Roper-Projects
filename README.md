@@ -49,20 +49,23 @@ The project has evolved from a locally hosted monitoring stack into a version-co
 
 ## Technical Skills & Technologies
 
-**Cloud & Infrastructure**
-AWS · Terraform · Infrastructure as Code · Linux
+**Cloud & Infrastructure**  
+AWS · Terraform · Infrastructure as Code · Linux · cloud-init
 
-**Containers & Automation**
-Docker · Docker Compose · Python · Bash · cloud-init
+**Containers & Automation**  
+Docker · Docker Compose · Bash · Python
 
-**Monitoring & Observability**
-Prometheus · Grafana · Node Exporter · Blackbox Exporter · Alerting
+**CI/CD & Version Control**  
+Git · GitHub · GitHub Actions · CI/CD · Pull Request Workflows · Configuration Validation
 
-**Networking & Systems**
+**Monitoring & Observability**  
+Prometheus · Grafana · Node Exporter · Blackbox Exporter · Alerting · Health Checks
+
+**Networking & Secure Access**  
 TCP/IP · DNS · DHCP · VLANs · Routing · Switching · Wi-Fi · SSH · Tailscale
 
-**Development & Operations**
-Git · GitHub · CI/CD Fundamentals · YAML · systemd · Technical Troubleshooting
+**Systems & Operations**  
+systemd · Linux Administration · Technical Troubleshooting · Infrastructure Monitoring
 
 ## Currently Building & Exploring
 
@@ -71,7 +74,7 @@ Current areas of focus include:
 
 * Expanding the Rail Network Diagnostics Platform with additional fleet diagnostics and reporting capabilities
 * Developing the HomeLab platform further through AWS, Terraform and infrastructure automation
-* Strengthening practical CI/CD and Infrastructure as Code experience
+* Expanding CI/CD automation, deployment validation and Infrastructure as Code practices
 * Exploring approaches to automated fault detection and self-recovery
 
 ---
